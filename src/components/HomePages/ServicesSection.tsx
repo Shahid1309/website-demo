@@ -144,7 +144,7 @@ export default function ServicesSection() {
         </div>
 
         {/* Call to Action */}
-         <div className="text-center bg-gradient-to-r from-gray-800 to-black rounded-3xl p-12 text-white shadow-2xl">
+         {/* <div className="text-center bg-gradient-to-r from-gray-800 to-black rounded-3xl p-12 text-white shadow-2xl">
           <h3 className="text-3xl font-bold mb-4">Ready to Transform Your Space?</h3>
           <p className="text-gray-300 mb-8 text-lg max-w-2xl mx-auto">
             Let's discuss your project and create something extraordinary together. 
@@ -159,10 +159,10 @@ export default function ServicesSection() {
               View Portfolio
             </button>
           </div>
-        </div>
+        </div> */}
 
         {/* Stats Section */}
-        <div className="grid md:grid-cols-4 gap-8 mt-20">
+        {/* <div className="grid md:grid-cols-4 gap-8 mt-20">
           {[
             { number: "500+", label: "Projects Completed" },
             { number: "98%", label: "Client Satisfaction" },
@@ -174,7 +174,7 @@ export default function ServicesSection() {
               <div className="text-gray-600 font-medium">{stat.label}</div>
             </div>
           ))}
-        </div>
+        </div> */}
       </div>
     </section>
   );

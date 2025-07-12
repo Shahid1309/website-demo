@@ -1,4 +1,5 @@
 
+import CallToAction from "@/components/About/CallToAction";
 import FeaturedProject from "@/components/HomePages/FeaturedProject";
 import HeroPage from "@/components/HomePages/HeroPage";
 import OurClient from "@/components/HomePages/OurClient";
@@ -19,6 +20,7 @@ export default function Home() {
    <ServicesSection/>
    <FeaturedProject/>
    <TestimonialsSection/>
+   <CallToAction/>
    
    </div>
    </>
