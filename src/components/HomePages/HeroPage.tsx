@@ -394,7 +394,7 @@ export default function EnhancedHeroSection() {
                 <div className="transform transition-transform duration-100 ease-out">
                     {/* Main Heading with optimized text rendering */}
                     <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight">
-                        <span className="block">Transforming Space</span>
+                        <span className="block">Transforming Space with us (sunShine Associate )</span>
                         <span className="block">Into Dreams</span>
                     </h1>
 
